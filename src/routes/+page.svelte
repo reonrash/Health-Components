@@ -4,6 +4,7 @@
   import MicroCard from "$lib/MicroCard.svelte";
   import InfoCard from "$lib/InfoCard.svelte";
   import Chat from "$lib/Chat.svelte";
+  import MealList from "$lib/MealList.svelte";
 </script>
 
 <InfoCard></InfoCard>
@@ -11,3 +12,4 @@
 <Calendar></Calendar>
 <MicroCard></MicroCard>
 <Chat></Chat>
+<MealList></MealList>
