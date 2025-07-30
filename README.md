@@ -22,6 +22,6 @@ npm run dev
 ## Images of Components
 
 ![Screenshot of calendar component](./images/calendar.png)
-![Screenshot of general info component](./images/info.png)
 ![Screenshot of macro info component](./images/macro.png)
+![Screenshot of general info component](./images/Info.png)
 ![Screenshot of minerals info component](./images/Minerals.png)
