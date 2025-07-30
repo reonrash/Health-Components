@@ -25,3 +25,4 @@ npm run dev
 ![Screenshot of macro info component](./images/macro.png)
 ![Screenshot of general info component](./images/Info.png)
 ![Screenshot of minerals info component](./images/Minerals.png)
+![Screenshot of general info component](./images/Input.png)
